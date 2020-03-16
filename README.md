@@ -1,4 +1,4 @@
-# RockPaperScissors
+# Rock Paper Scissors
 **Description:**
 This is a rock-paper-scissors game made using JavaScript, HTML, and CSS. Sweet and simple.
 An algorithm is used to created a CPU that randomly selects between rock, paper, or scissors. 
